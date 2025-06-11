@@ -1,0 +1,92 @@
+﻿/* ===== Sidebar màu pastel ===== */
+#sidebar {
+    background-color: #d0e8f2; /* xanh nước biển pastel */
+}
+
+/* ===== Item danh sách người dùng ===== */
+.user-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 12px;
+    margin: 6px 8px;
+    border-radius: 12px;
+    background-color: white;
+    transition: background-color 0.2s ease;
+}
+
+    .user-item:hover {
+        background-color: #b9d6e3;
+        cursor: pointer;
+    }
+
+/* ===== Avatar dùng icon ===== */
+.icon-avatar {
+    font-size: 22px;
+    color: #007bff;
+    background-color: #e3f2fd;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ===== Tên người dùng ===== */
+.username {
+    margin-left: 10px;
+    font-weight: 500;
+    color: #333;
+}
+
+/* ===== Badge tin chưa đọc ===== */
+.badge {
+    font-size: 0.75rem;
+    padding: 4px 8px;
+}
+
+/* ===== Tin nhắn ===== */
+.message-left,
+.message-right {
+    max-width: 70%;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    position: relative;
+    word-wrap: break-word;
+    display: inline-block;
+}
+
+.message-left {
+    align-self: flex-start;
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+.message-right {
+    align-self: flex-end;
+    background-color: #007bff;
+    color: white;
+}
+
+/* ===== Scroll đẹp cho chat box ===== */
+#chatBox::-webkit-scrollbar {
+    width: 6px;
+}
+
+#chatBox::-webkit-scrollbar-thumb {
+    background-color: #bbb;
+    border-radius: 3px;
+}
+.icon-avatar {
+    font-size: 22px;
+    color: #007bff;
+    background-color: #e3f2fd;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\RealtimeNotification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|d:\\repos\\realtimenotification\\realtimenotification\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|solutionrelative:realtimenotification\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|d:\\repos\\realtimenotification\\realtimenotification\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|solutionrelative:realtimenotification\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|d:\\repos\\realtimenotification\\realtimenotification\\wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|solutionrelative:realtimenotification\\wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|d:\\repos\\realtimenotification\\realtimenotification\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|solutionrelative:realtimenotification\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|d:\\repos\\realtimenotification\\realtimenotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|solutionrelative:realtimenotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|d:\\repos\\realtimenotification\\realtimenotification\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|solutionrelative:realtimenotification\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|d:\\repos\\realtimenotification\\realtimenotification\\controllers\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDD4D6C-239D-4985-A445-E078E08EE205}|RealtimeNotification\\RealtimeNotification.csproj|solutionrelative:realtimenotification\\controllers\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chat.css",
+              "DocumentMoniker": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\wwwroot\\css\\chat.css",
+              "RelativeDocumentMoniker": "RealtimeNotification\\wwwroot\\css\\chat.css",
+              "ToolTip": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\wwwroot\\css\\chat.css",
+              "RelativeToolTip": "RealtimeNotification\\wwwroot\\css\\chat.css",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-11T13:04:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealtimeNotification\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "RealtimeNotification\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T12:47:08.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "RealtimeNotification\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "RealtimeNotification\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:45:28.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Program.cs",
+              "RelativeDocumentMoniker": "RealtimeNotification\\Program.cs",
+              "ToolTip": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Program.cs",
+              "RelativeToolTip": "RealtimeNotification\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:44:29.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Controllers\\Demo.cs",
+              "RelativeDocumentMoniker": "RealtimeNotification\\Controllers\\Demo.cs",
+              "ToolTip": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Controllers\\Demo.cs",
+              "RelativeToolTip": "RealtimeNotification\\Controllers\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:44:20.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat.js",
+              "DocumentMoniker": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "RealtimeNotification\\wwwroot\\js\\chat.js",
+              "ToolTip": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "RealtimeNotification\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-11T12:44:01.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RealtimeNotification\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\repos\\RealtimeNotification\\RealtimeNotification\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RealtimeNotification\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:43:31.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
